@@ -1,0 +1,13 @@
+
+public class Fatorial1A10 {
+
+	public static void main(String[] args) {
+		for (int n = 1; n <= 10; n++) {
+			for(int i = n; i>1; i--) {
+				System.out.print(n*(n-i));
+				System.out.print(" ");
+			}
+		}
+	}
+
+}

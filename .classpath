@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="00-sintaxe-variaveis-e-fluxo/src"/>
+	<classpathentry kind="src" path="01-bytebank-inicial/src"/>
+	<classpathentry kind="src" path="02-bytebank-composição/src"/>
+	<classpathentry kind="src" path="03-bytebank-encapsulamento/src"/>
+	<classpathentry kind="src" path="04-bytebank-cliente-herança/src"/>
+	<classpathentry kind="src" path="05-bytebank-pilha-exceções/src"/>
+	<classpathentry kind="src" path="06-bytebank-biblioteca/src"/>
+	<classpathentry kind="src" path="07-bytebank-main/src"/>
+	<classpathentry kind="src" path="08-java-io/src"/>
+	<classpathentry kind="src" path="09-gerenciador-de-cursos/src"/>
+	<classpathentry kind="src" path="10-treinando-java8/src"/>
+	<classpathentry kind="src" path="11-JUnit/src"/>
+	<classpathentry kind="src" path="12-treinando-api/src"/>
+	<classpathentry kind="src" path="codewars/src"/>
+	<classpathentry kind="src" path="lista-exercicios/src"/>
+	<classpathentry kind="src" path="notas-de-aula/src"/>
+	<classpathentry kind="lib" path="06-bytebank-biblioteca/libs/bytebank-1.0.jar"/>
+	<classpathentry kind="output" path="00-sintaxe-variaveis-e-fluxo/bin"/>
+</classpath>
