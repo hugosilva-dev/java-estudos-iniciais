@@ -1,0 +1,30 @@
+SQL com MySQL: manipule e consulte dados
+
+IDE - MySQL - Workbench
+Structured Query Language ou Linguagem de Consulta Estruturada (SQL);
+Padrão ANSI (American National Standards Institute);
+Os NoSQL trabalha melhor com bigdata(rede sociais, grandas volume de dados);
+
+Comandos:
+DDL - Linguagem de definição de dados: permite a manipulação das estruturas de dados;
+DML - Linguagem de manipulação de dados: gerenciar os dados, tirar informações das estruturas e exibir pro usuário;
+DCL - Linguagem de controle de dados: administração do controle de acesso e usuário, armazenamento em disco, processos;
+
+Era necessário ter uma interface SQL compatível com o que estava sendo apresentado no mercado de banco de dados;
+Oracle - dona do JAVA e do MySQL;
+MariaDB - sucesso OpenSource do MySQL após compra da Oracle;
+
+Características do MySQL:
+Servidor: robusto, multiacesso, integridade de dados, relacionamento de tabelas, concorrencia, controle de transações e outros;
+Portabilidade: transacionado em diversos sistemas operacionais, provém disversas APIs de acesso para diferentes linguagens;
+Multithreads: utiliza diretamente o kernel do sistema operacional, perfomando de forma rápida e adaptável, utilizando o máximo do hardware disponível;
+Formas de Armazenamento: diferentes formas que se adaptam as características da necessidade;
+Velocidade: um dos mais rápidos do mercado, especialmente em aplicações na internet;
+Desempenho: diversos mecanismos de segurança, pode-se segregar os dados para determinados usuários;
+Capacidade: até 65000 terabytes de dados armazenados;
+Aplicabilidade: não só web, mas desktop, coorporativas (on premise - instalar banco de dados no próprio servidor da empresa); 
+Logs: forte gerenciamento de logs, registra tudo que se faz no banco, auxiliando na recuperação de dados, bastante usado em nuvem para manter o acesso.
+
+
+
+
